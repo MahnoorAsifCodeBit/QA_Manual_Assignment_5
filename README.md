@@ -1,4 +1,4 @@
-# 📬 Postman Assignment No. 1 – API Testing with ReqRes
+# 📬 Postman Assignment No. 5 – API Testing with ReqRes
 
 This repository contains the complete solution for **Assignment No. 5** using [Postman](https://www.postman.com/) .The goal is to demonstrate practical usage of all HTTP methods and Postman testing features.
 
