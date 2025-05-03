@@ -52,5 +52,5 @@ Postman & API Testing Assignment – 2025
 
 ## 📃 License
 
-This project is for academic use only. Do not redistribute without permission.
+This project is open for learning, testing, and portfolio purposes. Contributions welcome!
 
